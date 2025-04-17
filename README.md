@@ -13,15 +13,6 @@ I'm a final-year **Post Graduate Diploma in Management** student specializing in
 
 ---
 
-## 💼 Experience
-
-### 🏦 Management Trainee — **DCB Bank**  
-*Jun 2024 – Aug 2024 | Bhubaneswar*  
-- Worked on the **loan approval process** and compliance in the mortgage finance segment  
-- Analyzed loan trends and improved customer service strategies through survey-driven insights
-
----
-
 ## 📊 Featured Projects
 
 ### 📈 [Reliance Industries Financial Model](https://github.com/riaagar/Reliance-Financial-Model)
