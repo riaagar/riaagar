@@ -2,7 +2,7 @@
 
 🎓 Final-Year PGDM Student (Finance & IT) | 💼 Aspiring Business Analyst  
 📍 Bhubaneswar, India  
-📧 riaagarwal022@gmail.com | 📞 +91-6370359018  
+📧 agarwal.ria.1998@gmail.com | 📞 +91-6370359018  
 🔗 [LinkedIn](https://www.linkedin.com/in/riaag/) | 💻 [GitHub](https://github.com/riaagar)
 
 ---
