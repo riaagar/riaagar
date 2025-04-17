@@ -63,9 +63,3 @@ Built a comprehensive Excel-based financial model using 10 years of data
 - Top 10% in CBSE Class 12 Board Exams
 
 ---
-
-## 📂 Explore More
-
-📄 [Resume (PDF)](https://drive.google.com/file/d/13ki9iw--AyGDGG7nPv1SbQBftiT-NCZI/view?usp=sharing)  
-📊 [Power BI Dashboard Projects](https://drive.google.com/file/d/1n-XEzVows2vVbndfne9yqa8B4zJJQ4hz/view?usp=sharing)  
-📘 [Loan Approval Survey Insights](https://drive.google.com/file/d/1Crh6swtrgv3lHpwyRCm02ni2KI-USQi3/view?usp=sharing)  
